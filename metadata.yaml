@@ -1,0 +1,30 @@
+_repo: Curly--A-Tale-of-the-Arizona-Desert_41447
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41447-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pocock, Roger
+    aliases:
+    - Pocock, Henry Roger Ashwell
+    - Pocock, H. R. A. (Henry Roger Ashwell)
+    birthdate: 1865
+    deathdate: 1941
+    gutenberg_agent_id: '36399'
+    url: http://www.gutenberg.org/2009/agents/36399
+description: ''
+gutenberg_issued: '2012-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41447'
+  lccn: 05013965
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Arizona -- Fiction'
+title: 'Curly: A Tale of the Arizona Desert'
+url: http://www.gutenberg.org/ebooks/41447
